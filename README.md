@@ -3,4 +3,4 @@ This repository contains the code for task-4 given by The Sparks Foundation for 
 ### Name: Syed Huzaifa
 Data Science & Business Analytics Intern
 ### Problem Type:
-Exploratory
+Exploratory Analysis
