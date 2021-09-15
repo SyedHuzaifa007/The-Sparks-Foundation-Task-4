@@ -6,3 +6,5 @@ Data Science & Business Analytics Intern
 Exploratory Analysis On Global Terrorism
 ### Tool Used:
 Microsoft Power BI
+Language Used:
+Python
