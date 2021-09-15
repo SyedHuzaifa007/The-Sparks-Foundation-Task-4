@@ -5,3 +5,4 @@ Data Science & Business Analytics Intern
 ### Problem Type:
 Exploratory Analysis On Global Terrorism
 ### Tool Used:
+Power BI
