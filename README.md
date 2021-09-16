@@ -8,4 +8,4 @@ Exploratory Analysis On Global Terrorism
 Microsoft Power BI
 Language Used:
 Python
-### Insights
+### Insights Extracted:
