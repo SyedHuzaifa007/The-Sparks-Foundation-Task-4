@@ -9,3 +9,4 @@ Microsoft Power BI
 Language Used:
 Python
 ### Insights Extracted:
+-Stats
