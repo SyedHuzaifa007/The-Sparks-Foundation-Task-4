@@ -19,5 +19,5 @@ Exploratory Analysis On Global Terrorism
 - Most Active Terrorist Group
 - Terrorist Groups Stats
 - Target Types
-- Total Succeedd Attacks
+- Total Succeed Attacks
 - Total Suicide Attacks
