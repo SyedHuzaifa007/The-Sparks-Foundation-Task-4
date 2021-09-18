@@ -10,3 +10,9 @@ Language Used:
 Python
 ### Insights Extracted:
 - Total Attacks Between 1970-2017
+- Total People Killed Between 1970-2017 Because of Terrorist Attacks
+- Total People Wounded Between 1970-2017 Because of Terrorist Attacks
+- Most Affected Region
+- Most Affected Country
+- Most Affected City
+- 
