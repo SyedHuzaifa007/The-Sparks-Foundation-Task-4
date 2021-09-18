@@ -15,4 +15,9 @@ Python
 - Most Affected Region
 - Most Affected Country
 - Most Affected City
-- 
+- Common Weapons Used In Attacks
+- Most Active Terrorist Group
+- Terrorist Groups Stats
+- Target Types
+- Total Succeedd Attacks
+- Total Suicide Attacks
