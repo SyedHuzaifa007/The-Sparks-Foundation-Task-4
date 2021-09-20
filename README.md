@@ -21,3 +21,4 @@ Exploratory Analysis On Global Terrorism
 - Target Types
 - Total Succeed Attacks
 - Total Suicide Attacks
+---
