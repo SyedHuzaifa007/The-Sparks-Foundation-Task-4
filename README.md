@@ -22,4 +22,4 @@ Exploratory Analysis On Global Terrorism
 - Total Succeed Attacks
 - Total Suicide Attacks
 ---
-### Goggle Collaboratory Link:
+### Report Link:
