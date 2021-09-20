@@ -22,4 +22,4 @@ Exploratory Analysis On Global Terrorism
 - Total Succeed Attacks
 - Total Suicide Attacks
 ---
-### Report Link:
+### Report Link: https://app.powerbi.com/view?r=eyJrIjoiMmJmMjg5NjktMWJlNC00YmVlLTg3NTAtMGU3MDdkZWMwYTE2IiwidCI6IjEyYjIyMWIzLTA0NjQtNDIyMy04OWU1LTg4ODgzNTc3OGI1OCIsImMiOjl9
