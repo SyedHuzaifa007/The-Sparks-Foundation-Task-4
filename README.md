@@ -23,3 +23,4 @@ Exploratory Analysis On Global Terrorism
 - Total Suicide Attacks
 ---
 ### Report Link: https://app.powerbi.com/view?r=eyJrIjoiMmJmMjg5NjktMWJlNC00YmVlLTg3NTAtMGU3MDdkZWMwYTE2IiwidCI6IjEyYjIyMWIzLTA0NjQtNDIyMy04OWU1LTg4ODgzNTc3OGI1OCIsImMiOjl9
+**Note:** This code is only for **The Sparks Foundation** and is not allowed to edit or make changes.
