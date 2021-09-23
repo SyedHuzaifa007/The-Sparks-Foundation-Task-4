@@ -25,4 +25,4 @@ Exploratory Analysis On Global Terrorism
 ### Report Link: 
 https://app.powerbi.com/view?r=eyJrIjoiMmJmMjg5NjktMWJlNC00YmVlLTg3NTAtMGU3MDdkZWMwYTE2IiwidCI6IjEyYjIyMWIzLTA0NjQtNDIyMy04OWU1LTg4ODgzNTc3OGI1OCIsImMiOjl9
 #### **Note:** 
-It is files and code in this repository
+It is not allowed to make changes to files and code in this repository
